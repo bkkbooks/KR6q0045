@@ -19,13 +19,13 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0045_000-X.yaml, hash: 'sha256:586ba1c2c27b6c62d207cf3d02992c6fef1ef994f571e9aee4f0f143daa1bca6'}
+  - {seq: 0, filename: KR6q0045_000-X.yaml, hash: 'sha256:32124df105e4cbd87e637bffaceae0b715ddd4ea8d89bad6472c608e2d228498'}
   - {seq: 1, filename: KR6q0045_001-X.yaml, hash: 'sha256:64bf820037ea661dc812e1c554b64d1c82bcd2a36e1847cb5b162c3c767b357c'}
   - {seq: 2, filename: KR6q0045_002-X.yaml, hash: 'sha256:49f8d83e18f2484f254ee08ca5925be2374fb0154872a33c16aaa6f4abed1f2c'}
   - {seq: 3, filename: KR6q0045_003-X.yaml, hash: 'sha256:a864ce99fbee7166cb7448c22d5ff6134c2ed8d87fdc4839cb3bb00b2e10520d'}
   - {seq: 4, filename: KR6q0045_004-X.yaml, hash: 'sha256:f396ee08640efba6698bf23ddb08d52ea76aa20801ba87771e660f91663f9ac6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0045_000-X.markers.yaml, hash: 'sha256:4c8ec7bccd4b09611aebaec8c2e812bfb1e274929db09f87fb2d5ff9328cd0a6'}
+  - {seq: 0, role: markers, filename: assets/KR6q0045_000-X.markers.yaml, hash: 'sha256:307aa2ecd7cd90deb4ead6805bf881a44d983e55803b6aa002245005b0f894bd'}
   - {seq: 1, role: markers, filename: assets/KR6q0045_001-X.markers.yaml, hash: 'sha256:51410b5d3025dd7496cd7fe797035fb5a56174fd3ca8fab0354c6c7f5519f1ea'}
   - {seq: 2, role: markers, filename: assets/KR6q0045_002-X.markers.yaml, hash: 'sha256:a3225027a11b7ea6569269eee1a0851f91918fccf9172e8b0817c3698cf6aa3b'}
   - {seq: 3, role: markers, filename: assets/KR6q0045_003-X.markers.yaml, hash: 'sha256:e1073e3849a895a0203dfe30b34d7b7b0622aa4c0975865789fd22f55f6ef10e'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0045_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1608-A 重編八十八祖道影傳贊序
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0045_X_000-mulu-2
     span:
-    - front
+    - body
     - 1009
     - 1009
   label: No. 1608-B 又題高氏父子八十八祖傳贊序䟦
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0045_X_000-mulu-3
     span:
-    - front
+    - body
     - 1183
     - 1183
   label: No. 1608-C 高寓公虞部補憨大師八十八祖道影傳贊敘
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0045_X_000-mulu-4
     span:
-    - front
+    - body
     - 1509
     - 1509
   label: No. 1608-D 重編憨山禪師八十八祖傳贊序
@@ -75,7 +75,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0045_X_000-mulu-5
     span:
-    - front
+    - body
     - 2694
     - 2694
   label: No. 1608-E 諸祖道影傳贊題辭
@@ -85,7 +85,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0045_X_000-mulu-6
     span:
-    - front
+    - body
     - 2985
     - 2985
   label: No. 1608-F 題諸祖道影後
@@ -95,7 +95,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0045_X_000-mulu-7
     span:
-    - front
+    - body
     - 3416
     - 3416
   label: No. 1608-G 祖師傳贊序
@@ -105,7 +105,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0045_X_000-mulu-8
     span:
-    - front
+    - body
     - 3720
     - 3720
   label: No. 1608-H 又序
@@ -115,7 +115,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0045_X_000-mulu-9
     span:
-    - front
+    - body
     - 4220
     - 4220
   label: No. 1608-I 祖師道影傳贊記
@@ -125,7 +125,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0045_X_000-mulu-10
     span:
-    - front
+    - body
     - 4550
     - 4550
   label: 重訂憨山禪師八十八祖道影傳贊目錄
@@ -1431,4 +1431,4 @@ table_of_contents:
   label: No. 1608-附-b 又䟦
   type: mulu
   level: 1
-hash: sha256:34b3f40111f394cf2acddfb3cbc1cd545b6c3222310821410bd72bdf9646f935
+hash: sha256:fcdc9d7446a67e9ae3d7392336fc05c2da0d6535b8630df7501761c4203a9674
